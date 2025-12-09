@@ -36,16 +36,16 @@ Higher education institutions often face challenges with "salary compression"—
 **Finding:** Strategic leadership and senior faculty positions command the highest per-capita budget allocation.
 **Strategic Implication:** While expected, the magnitude of the gap between these roles and operational staff highlights the "top-heavy" nature of the current compensation model.
 
-#### 3. Budget Concentration Risk (Lorenz Curve)
-![Inequality Analysis](chart4_inequality.png)
-**Finding:** The Lorenz Curve analysis demonstrates high budget concentration. As noted in the chart, the Top 20% of staff consume nearly 40% of the total payroll budget.
-**Strategic Implication:** This concentration suggests that flat-percentage Cost of Living Adjustments (COLA) are fiscally inefficient, as they disproportionately benefit top earners while providing minimal relief to the operational base. A tiered adjustment model is recommended.
-
-#### 4. IT Competitiveness: Internal Pay vs. Market Benchmarks
+#### 3. IT Competitiveness: Internal Pay vs. Market Benchmarks
 ![Market Competitiveness](chart3_market_comp.png)
 **Finding:** Internal salary bands were benchmarked against 2024 external market medians (indicated by Red Stars).
 * **Risk Area:** "Network Engineers" and "Systems Administrators" are currently compensated below the market median, presenting a high risk of attrition to the private sector.
 * **Stability:** "IT Support" roles are clustered competitively around the market rate, indicating stability in Tier 1 operations.
+
+#### 4. Budget Concentration Risk (Lorenz Curve)
+![Inequality Analysis](chart4_inequality.png)
+**Finding:** The Lorenz Curve analysis demonstrates high budget concentration. As noted in the chart, the Top 20% of staff consume nearly 40% of the total payroll budget.
+**Strategic Implication:** This concentration suggests that flat-percentage Cost of Living Adjustments (COLA) are fiscally inefficient, as they disproportionately benefit top earners while providing minimal relief to the operational base. A tiered adjustment model is recommended.
 
 ---
 
@@ -53,6 +53,6 @@ Higher education institutions often face challenges with "salary compression"—
 1.  Clone this repository.
 2.  Download the latest salary dataset from the [Florida Board of Governors Interactive Tool](https://prod.flbog.net/ords/f?p=140:1::::::).
 3.  Place the `.csv` file in the root directory.
-4.  Run the `UCF_Analysis.ipynb` notebook to reproduce the ETL pipeline and visualizations.
+4.  Run `UCF_Analysis.ipynb` to reproduce the ETL pipeline and visualizations.
 
 *Disclaimer: This analysis utilizes publicly available data for educational and portfolio purposes.*
