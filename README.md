@@ -1,13 +1,12 @@
 # UCF Strategic Compensation Analysis
-**Project:** Budget Allocation & Market Competitiveness Model
-**Role:** Data Science Consultant
-**Stakeholder:** Chief Information Officer (CIO) & Executive Leadership
 **Tech Stack:** Python, Pandas, Matplotlib
 
 ---
 
 ### Executive Summary
-This project analyzes public salary data from the University of Central Florida to provide actionable intelligence on pay equity, budget concentration, and IT talent retention. The objective was to transform raw administrative data into a strategic dashboard that answers two critical business questions: *Is the current budget allocation optimized for retention?* and *Are critical IT roles competitive against the private sector?*
+This project analyzes public salary data from the University of Central Florida to provide actionable intelligence on pay equity, budget concentration, and IT talent retention. The objective was to transform raw administrative data into a strategic dashboard that answers two critical business questions:
+*Is the current budget allocation optimized for retention?*
+*Are critical IT roles competitive against the private sector?*
 
 ### Business Problem
 Higher education institutions often face challenges with "salary compression"—where new hires command higher market rates than tenured staff—and inefficient budget distribution. Without granular visibility, leadership risks:
